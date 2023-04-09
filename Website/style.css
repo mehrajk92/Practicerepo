@@ -298,8 +298,8 @@ ul li a:hover{
     height: 380px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 120px;
-    left: 1020px;
+    top: 420px;
+    left: 50px;
     border-radius: 10px;
     padding: 25px;
 }
@@ -318,6 +318,5 @@ ul li a:hover{
     margin-top: 30px;
     font-family: sans-serif;
 }
-    
 
-} 
+}
